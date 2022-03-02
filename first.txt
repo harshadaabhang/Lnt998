@@ -1,3 +1,6 @@
 Today is Tuesday,
 Month is February,
-Year is 2022-23
+Year is 2022-23.
+
+An apple a day keeps doctor away from us.
+Cat has 9 lives.
