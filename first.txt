@@ -12,3 +12,4 @@ Pushpa is a good movie.
 7. Gangubai is latest bollywood movie.
 8. Today is Wednesday 02-03-22
 9. India vs Srilanka test is on Friday
+10. HTML is used to create static web pages.
